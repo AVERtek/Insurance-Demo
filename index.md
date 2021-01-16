@@ -23,7 +23,7 @@
   </button>
 </model-viewer>
 
-<model-viewer id="reveal" loading="eager" src="ModelsCarriage/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Carriage.usdz" alt="We Wrote the Book on Home & Auto Protection" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer loading="eager" id="paused-change-demo" camera-controls autoplay animation-name="TheLife" ar shadow-intensity="1" src="ModelsCarriage/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Carriage.usdz" alt="We Wrote the Book on Home & Auto Protection" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
